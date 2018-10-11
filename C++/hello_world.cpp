@@ -1,7 +1,10 @@
-#include<iostream>
+#include <iostream>
+
 using namespace std;
-int main()
-{
-    cout<<"Hello World\n";
-    return 0;
+
+int main(void) {
+
+	cout << "Hello hacktoberfest world!" << endl;
+
+	return (0);
 }
